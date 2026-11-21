@@ -14,8 +14,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,60:6D28D9,100:C6F432&height=150&section=header&text=Step%20Into%20Your%20Style&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=A855F7&center=true&vCenter=true&width=760&lines=Nike+Skechers+Crocs+and+Campus+in+One+Store;Footwear+for+Men+Women+and+Kids;Browse+%7C+Wishlist+%7C+Cart+%7C+Offers;Built+with+HTML+CSS+and+JavaScript" alt="Typing SVG" />
 
 <br/>
@@ -25,14 +23,14 @@
 <a href="https://github.com/shahrishabh1513-jsk/RT_shoes_ecommerce"><img src="https://img.shields.io/badge/REPOSITORY-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/shahrishabh1513-jsk/RT_shoes_ecommerce/stargazers"><img src="https://img.shields.io/badge/⭐_STAR-Support_This_Repo-4C1D95?style=for-the-badge"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/BRANDS-4-6D28D9?style=for-the-badge&labelColor=1E1033"/>
 <img src="https://img.shields.io/badge/CATEGORIES-Men_%C2%B7_Women_%C2%B7_Kids-A855F7?style=for-the-badge&labelColor=1E1033"/>
 <img src="https://img.shields.io/badge/PAGES-12-C6F432?style=for-the-badge&labelColor=1E1033"/>
 <img src="https://img.shields.io/badge/LICENSE-MIT-6D28D9?style=for-the-badge&labelColor=1E1033"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -404,13 +402,11 @@ Released under the **MIT License** — see the [LICENSE](https://github.com/shah
 <a href="mailto:shahrishu1515@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/shahrishabh1513-jsk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 ### ⭐ If you like this project, give it a star — it helps a lot!
 
 <img src="https://komarev.com/ghpvc/?username=rt-shoes-ecommerce&label=Repo%20Views&color=6D28D9&style=for-the-badge" alt="Repo Views" />
-
-<br/>
 
 **Made with 👟 & 💜 by Rishabh Shah**
 
