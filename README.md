@@ -4,7 +4,7 @@
       <img src="https://github.com/user-attachments/assets/90c19f97-8b0b-4df1-96c4-a288d337503c" width="110" alt="Shah Rishabh badge logo"/>
     </td>
     <td width="60%" align="center" valign="middle">
-      <img src="./assets/rt-shoes-logo.png" width="320" alt="RT SHOES logo"/>
+      <img src="https://github.com/shahrishabh1513-jsk/RT_shoes_ecommerce/blob/main/assets/logos/logo.png" width="320" alt="RT SHOES logo"/>
     </td>
     <td width="20%" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/41de0edc-f0a3-474a-9156-d8b3d10d41ba" width="110" alt="Shah Rishabh badge logo"/>
