@@ -1,43 +1,185 @@
-@media (max-width:1080px){
- .bgrid{grid-template-columns:repeat(2,1fr)}
- .fg{grid-template-columns:1fr 1fr}
- .s7,.s5{grid-column:span 12}
+@media (max-width:1080px) {
+    .bgrid {
+        grid-template-columns: repeat(2, 1fr)
+    }
+
+    .fg {
+        grid-template-columns: 1fr 1fr
+    }
+
+    .s7,
+    .s5 {
+        grid-column: span 12
+    }
 }
-@media (max-width:860px){
- .burger{display:grid}
- .nav{position:fixed;inset:0 0 0 auto;width:min(330px,86vw);background:var(--bg2);z-index:70;padding:90px 26px 26px;transform:translateX(105%);transition:transform .45s cubic-bezier(.2,.8,.2,1);overflow:auto;margin:0}
- body.menu .nav{transform:none}
- .nav ul{flex-direction:column;gap:6px}
- .nav a{font-size:22px;font-weight:700;padding:10px 0}
- .sub{position:static;opacity:1;visibility:visible;transform:none;background:none;box-shadow:none;padding:0 0 0 14px}
- .sub a{font-size:17px;font-weight:500}
- .hdr .hacts{margin-left:auto}
- .burger{position:relative;z-index:75}
- .hero .wrap,.lh .wrap,.pdg,.cartg,.qv,.news{grid-template-columns:1fr}
- .hero .wrap{min-height:0}
- .stage{margin:0 auto}
- .lh img{width:60%;margin:0 auto}
- .cats{grid-template-columns:1fr}
- .cat{min-height:240px}
- .pr h3{max-width:100%}
- .pr .pl{opacity:.35}
- .news{padding:30px 22px}
+
+@media (max-width:860px) {
+    .burger {
+        display: grid
+    }
+
+    .nav {
+        position: fixed;
+        inset: 0 0 0 auto;
+        width: min(330px, 86vw);
+        background: var(--bg2);
+        z-index: 70;
+        padding: 90px 26px 26px;
+        transform: translateX(105%);
+        transition: transform .45s cubic-bezier(.2, .8, .2, 1);
+        overflow: auto;
+        margin: 0
+    }
+
+    body.menu .nav {
+        transform: none
+    }
+
+    .nav ul {
+        flex-direction: column;
+        gap: 6px
+    }
+
+    .nav a {
+        font-size: 22px;
+        font-weight: 700;
+        padding: 10px 0
+    }
+
+    .sub {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        background: none;
+        box-shadow: none;
+        padding: 0 0 0 14px
+    }
+
+    .sub a {
+        font-size: 17px;
+        font-weight: 500
+    }
+
+    .hdr .hacts {
+        margin-left: auto
+    }
+
+    .burger {
+        position: relative;
+        z-index: 75
+    }
+
+    .hero .wrap,
+    .lh .wrap,
+    .pdg,
+    .cartg,
+    .qv,
+    .news {
+        grid-template-columns: 1fr
+    }
+
+    .hero .wrap {
+        min-height: 0
+    }
+
+    .stage {
+        margin: 0 auto
+    }
+
+    .lh img {
+        width: 60%;
+        margin: 0 auto
+    }
+
+    .cats {
+        grid-template-columns: 1fr
+    }
+
+    .cat {
+        min-height: 240px
+    }
+
+    .pr h3 {
+        max-width: 100%
+    }
+
+    .pr .pl {
+        opacity: .35
+    }
+
+    .news {
+        padding: 30px 22px
+    }
 }
-@media (max-width:560px){
- .wrap{width:calc(100% - 28px)}
- .sec{padding:48px 0}
- .grid{grid-template-columns:repeat(2,1fr);gap:12px}
- .info{padding:2px 12px 14px}
- .info h3{font-size:16px}
- .price b{font-size:18px}
- .acts{flex-direction:column}
- .bgrid{grid-template-columns:1fr}
- .fg{grid-template-columns:1fr}
- .news form{flex-direction:column}
- .ln{grid-template-columns:64px 1fr}
- .lr{grid-column:1/-1;grid-auto-flow:column;justify-content:space-between;justify-items:start}
- .hero h1{font-size:clamp(46px,15vw,70px)}
- .hero .btn{flex:1}
- .mdl .box{padding:20px 16px}
- .sh{flex-direction:column;align-items:start}
+
+@media (max-width:560px) {
+    .wrap {
+        width: calc(100% - 28px)
+    }
+
+    .sec {
+        padding: 48px 0
+    }
+
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px
+    }
+
+    .info {
+        padding: 2px 12px 14px
+    }
+
+    .info h3 {
+        font-size: 16px
+    }
+
+    .price b {
+        font-size: 18px
+    }
+
+    .acts {
+        flex-direction: column
+    }
+
+    .bgrid {
+        grid-template-columns: 1fr
+    }
+
+    .fg {
+        grid-template-columns: 1fr
+    }
+
+    .news form {
+        flex-direction: column
+    }
+
+    .ln {
+        grid-template-columns: 64px 1fr
+    }
+
+    .lr {
+        grid-column: 1/-1;
+        grid-auto-flow: column;
+        justify-content: space-between;
+        justify-items: start
+    }
+
+    .hero h1 {
+        font-size: clamp(46px, 15vw, 70px)
+    }
+
+    .hero .btn {
+        flex: 1
+    }
+
+    .mdl .box {
+        padding: 20px 16px
+    }
+
+    .sh {
+        flex-direction: column;
+        align-items: start
+    }
 }
