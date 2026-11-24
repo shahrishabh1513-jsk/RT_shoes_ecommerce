@@ -102,8 +102,6 @@
 
 </div>
 
-> 💡 The store builds its pages with JavaScript, and the screenshots are captured live by a free service. If one shows blank on first load, refresh once and it fills in within a minute.
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C6F432,60:A855F7,100:4C1D95&height=4&section=header"/></div>
 
 ## 📖 About The Project
@@ -400,9 +398,7 @@ Released under the **MIT License** — see the [LICENSE](https://github.com/shah
 <a href="https://rishabh-shah-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rishabh-alpeshabhai-shah-91b9072a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shahrishu1515@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/shahrishabh1513-jsk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/>
+<a href="https://github.com/shahrishabh1513-jsk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><
 
 ### ⭐ If you like this project, give it a star — it helps a lot!
 
