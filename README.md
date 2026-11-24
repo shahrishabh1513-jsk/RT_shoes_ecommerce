@@ -71,7 +71,7 @@
 <tr>
 <td align="center">
 <a href="https://shahrishabh1513-jsk.github.io/RT_shoes_ecommerce/" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fshahrishabh1513-jsk.github.io%2FRT_shoes_ecommerce%2F?w=1400" width="100%" alt="RT SHOES home page"/>
+<img src="https://github.com/user-attachments/assets/bf1f8db8-db54-4c23-b597-37dd8f28165c" width="100%" alt="RT SHOES home page"/>
 </a>
 </td>
 </tr>
@@ -84,13 +84,13 @@
 <td align="center" width="50%">
 <b>👞 Men</b><br/><br/>
 <a href="https://shahrishabh1513-jsk.github.io/RT_shoes_ecommerce/men.html" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fshahrishabh1513-jsk.github.io%2FRT_shoes_ecommerce%2Fmen.html?w=1000" width="100%" alt="Men's footwear page"/>
+<img src="https://github.com/user-attachments/assets/17e75631-2f10-4a87-b483-beade19c08a5" width="100%" alt="Men's footwear page"/>
 </a>
 </td>
 <td align="center" width="50%">
 <b>🔥 Offers</b><br/><br/>
 <a href="https://shahrishabh1513-jsk.github.io/RT_shoes_ecommerce/offers.html" target="_blank">
-<img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fshahrishabh1513-jsk.github.io%2FRT_shoes_ecommerce%2Foffers.html?w=1000" width="100%" alt="Offers page"/>
+<img src="https://github.com/user-attachments/assets/f5900976-def7-4571-8f85-a45a1e8ec060" width="100%" alt="Offers page"/>
 </a>
 </td>
 </tr>
